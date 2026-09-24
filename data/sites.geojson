@@ -2,8 +2,277 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2026-09-24T05:24:36Z",
+  "timestamp": "2026-09-24T06:15:01Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167431658",
+        "highway": "residential",
+        "name": "Balangay Shrine Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4972566,
+          8.9557985
+        ]
+      },
+      "id": "way/167431658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/221456331",
+        "alt_name": "Butuan City Cathedral",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "roman_catholic",
+        "name": "Saint Joseph Cathedral",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5424536,
+          8.9478005
+        ]
+      },
+      "id": "way/221456331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/221457499",
+        "denomination": "catholic",
+        "landuse": "religious",
+        "name": "Santo Niño Shrine",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5054722,
+          8.9434396
+        ]
+      },
+      "id": "way/221457499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227731126",
+        "addr:city": "Butuan City",
+        "addr:postcode": "8600",
+        "alt_name": "Butuan Museum",
+        "building": "yes",
+        "contact:phone": "+63 85 527 4192",
+        "facebook": "https://www.facebook.com/nmenmindanao",
+        "name": "National Museum of the Philippines - Butuan",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "tourism": "museum",
+        "website": "https://www.nationalmuseum.gov.ph/nationalmuseumbeta/ASBMD/Butuan.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5269728,
+          8.9523403
+        ]
+      },
+      "id": "way/227731126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227744901",
+        "historic": "memorial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5425793,
+          8.9516979
+        ]
+      },
+      "id": "way/227744901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/344479437",
+        "addr:barangay": "Banza",
+        "addr:city": "Butuan City",
+        "building": "roof",
+        "building:levels": "1",
+        "height": "8",
+        "layer": "1",
+        "leisure": "sports_hall",
+        "name": "Banza Covered Court",
+        "operator": "Barangay Banza",
+        "operator:type": "government",
+        "sport": "basketball",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5425369,
+          8.9746082
+        ]
+      },
+      "id": "way/344479437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357787411",
+        "amenity": "college",
+        "name": "St. Joseph Institute of Technology",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5413616,
+          8.951244
+        ]
+      },
+      "id": "way/357787411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437549435",
+        "amenity": "hospital",
+        "name": "St. Joseph Clinic",
+        "operator": "Relampagos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5222665,
+          9.0291404
+        ]
+      },
+      "id": "way/437549435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589106550",
+        "leisure": "park",
+        "name": "Butuan Museum and Picnic Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5273026,
+          8.9526875
+        ]
+      },
+      "id": "way/589106550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/682342077",
+        "leisure": "park",
+        "name": "Balangay Boat Building Area Tree Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5396756,
+          8.9675107
+        ]
+      },
+      "id": "way/682342077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853539316",
+        "addr:city": "Butuan City",
+        "addr:postcode": "8600",
+        "building": "yes",
+        "name": "Balangay Shrine Museum",
+        "previously": "node 4101342690",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4962876,
+          8.9540738
+        ]
+      },
+      "id": "way/853539316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/978826233",
+        "highway": "residential",
+        "name": "Balangay Shrine Road",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4964269,
+          8.95341
+        ]
+      },
+      "id": "way/978826233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1008742763",
+        "bridge:structure": "beam",
+        "layer": "1",
+        "man_made": "bridge",
+        "name": "Banza Bridge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5479936,
+          8.9862408
+        ]
+      },
+      "id": "way/1008742763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1324599014",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Jose Rizal",
+        "subject:wikidata": "Q1500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.532379,
+          9.1233532
+        ]
+      },
+      "id": "node/1324599014"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -20,6 +289,631 @@
         ]
       },
       "id": "way/1392288967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1448214088",
+        "addr:barangay": "Alubihid",
+        "addr:city": "Buenavista",
+        "addr:place": "Sitio Manlangit",
+        "addr:postcode": "8601",
+        "addr:province": "Agusan del Norte",
+        "contact:phone": "+63 995 674 9945",
+        "fee": "yes",
+        "landuse": "commercial",
+        "name": "Manlangit Nature Park",
+        "operator:type": "private",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4525205,
+          8.929933
+        ]
+      },
+      "id": "way/1448214088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1523863058",
+        "addr:city": "Butuan City",
+        "addr:place": "Pinamanculan",
+        "contact:phone": "+63 85 300 0270",
+        "fixme": "geometry is approximated",
+        "leisure": "park",
+        "name": "Bood Promontory & Eco Park",
+        "operator": "Butuan City Government",
+        "operator:type": "public",
+        "short_name": "Bood Eco Park",
+        "website": "https://butuan.gov.ph/bood-promontory-and-eco-park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4922782,
+          8.9524959
+        ]
+      },
+      "id": "way/1523863058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708009734",
+        "name": "Balanghai Convention Center",
+        "source": "local knowledge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5274766,
+          8.9537928
+        ]
+      },
+      "id": "node/1708009734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2629536698",
+        "amenity": "parking",
+        "name": "Santo Niño Shrine - Parking Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5055346,
+          8.943667
+        ]
+      },
+      "id": "node/2629536698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3663925405",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "The Raising of the Philippine Flag in Mindanao",
+        "start_date": "1999-01-19",
+        "wikidata": "Q28923408",
+        "wikimedia_commons": "Category:The Raising of the Philippine Flag in Mindanao historical marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5433812,
+          8.9476841
+        ]
+      },
+      "id": "node/3663925405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3663962038",
+        "fixme": "confirm location",
+        "historic": "memorial",
+        "name": "Datu Silongan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5448867,
+          8.9471649
+        ]
+      },
+      "id": "node/3663962038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664066537",
+        "artist_name": "Garcia Velarde",
+        "historic": "memorial",
+        "inscription": "Agusan Dr. Jose Rizal",
+        "memorial": "statue",
+        "name": "Rizal Monument",
+        "start_date": "1935",
+        "subject:wikidata": "Q1500",
+        "subject:wikipedia": "en:José Rizal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5430729,
+          8.9476964
+        ]
+      },
+      "id": "node/3664066537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271023593",
+        "addr:street": "Poblacion, Magallanes, Agusan del Norte",
+        "name": "Magellan Shrine",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5184105,
+          9.0169895
+        ]
+      },
+      "id": "node/4271023593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4353573690",
+        "damage:date": "2026-07-13",
+        "damaged": "yes",
+        "denotation": "natural_monument",
+        "name": "Bitaog Centennial Tree",
+        "natural": "tree",
+        "species": "Calophyllum Inophyllum",
+        "species:ceb": "Bitaog",
+        "species:wikidata": "Q311471",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5349384,
+          9.0656372
+        ]
+      },
+      "id": "node/4353573690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447326389",
+        "name": "Nasipit Lovers Lane",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.333598,
+          8.9683928
+        ]
+      },
+      "id": "node/4447326389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5127556821",
+        "name": "Banza Church Ruins",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5388735,
+          8.9717241
+        ]
+      },
+      "id": "node/5127556821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5447559124",
+        "name": "Balangay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4969796,
+          8.953263
+        ]
+      },
+      "id": "node/5447559124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6250823185",
+        "fixme": "identify",
+        "name": "Magellanes DENR Checkpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5325944,
+          9.0570929
+        ]
+      },
+      "id": "node/6250823185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6389896632",
+        "addr:city": "Butuan City",
+        "addr:postcode": "8600",
+        "addr:street": "Butuan Diversion Road",
+        "name": "Shell Midden - Museo de Balanghai Field Museum",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5159117,
+          8.923803
+        ]
+      },
+      "id": "node/6389896632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6389906733",
+        "name": "Balangay Boat Building Area",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5402098,
+          8.9677649
+        ]
+      },
+      "id": "node/6389906733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6389910183",
+        "name": "Pagatpatan Welands and Wildlife Sanctuary",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5229193,
+          8.9932807
+        ]
+      },
+      "id": "node/6389910183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6389978436",
+        "addr:city": "Butuan City",
+        "addr:postcode": "8600",
+        "name": "Bit-os Rock",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5393277,
+          8.8808705
+        ]
+      },
+      "id": "node/6389978436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6389994156",
+        "alt_name": "King Kolambu Monument",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Rajah Kolambu Monument",
+        "subject:wikidata": "Q112056640",
+        "wikimedia_commons": "File:RAJAH KOLAMBU STATUE.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5293849,
+          8.9525878
+        ]
+      },
+      "id": "node/6389994156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6392204803",
+        "addr:postcode": "8600",
+        "addr:street": "Antongalon to Basag Road",
+        "email": "a2psmail@gmail.com",
+        "name": "Ariola Farm",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6144799,
+          8.9387025
+        ]
+      },
+      "id": "node/6392204803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6444345518",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Magellan's Anchorage",
+        "subject:wikidata": "Q1496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.484276,
+          8.9995315
+        ]
+      },
+      "id": "node/6444345518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6479912565",
+        "admin_level": "10",
+        "admin_type:PH": "barangay",
+        "is_in:city": "Butuan",
+        "is_in:district": "11th District",
+        "name": "Banza",
+        "official_name": "Barangay Banza",
+        "place": "village",
+        "postal_code": "8600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5396679,
+          8.9746121
+        ]
+      },
+      "id": "node/6479912565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6517328310",
+        "addr:city": "Butuan City",
+        "addr:postcode": "8600",
+        "addr:street": "Bacolod City Street",
+        "name": "Museo de Balanghai",
+        "operator": "Balanghai Hotel and Convention Center",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5276337,
+          8.9537859
+        ]
+      },
+      "id": "node/6517328310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6708419410",
+        "addr:postcode": "8600",
+        "addr:street": "Brgy. Sto Niño, Butuan City",
+        "name": "Mangala’s Tabpool & Nature Resorts",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5810088,
+          9.0273995
+        ]
+      },
+      "id": "node/6708419410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7270746485",
+        "name": "Alicia's Ridge",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4359179,
+          8.8648995
+        ]
+      },
+      "id": "node/7270746485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380197255",
+        "addr:city": "Butuan City",
+        "addr:postcode": "8600",
+        "addr:province": "Agusan del Norte",
+        "amenity": "school",
+        "isced:level": "2;3",
+        "name": "Banza National High School",
+        "operator": "Central Butuan District I Butuan City Schools Division, DepEd",
+        "operator:type": "government",
+        "operator:wikidata": "Q3550346",
+        "population:pupils": "626",
+        "population:pupils:date": "2015",
+        "ref": "304759",
+        "start_date": "1973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5449101,
+          8.9800229
+        ]
+      },
+      "id": "node/7380197255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380197300",
+        "addr:barangay": "Banza",
+        "addr:city": "Butuan City",
+        "addr:neighbourhood": "Purok 3",
+        "addr:postcode": "8600",
+        "addr:province": "Agusan del Norte",
+        "amenity": "school",
+        "isced:level": "0;1",
+        "name": "Banza Elementary School",
+        "operator": "North Butuan District Butuan City Schools Division, DepEd",
+        "operator:type": "government",
+        "operator:wikidata": "Q3550346",
+        "population:pupils": "568",
+        "population:pupils:date": "2015",
+        "ref": "132042",
+        "start_date": "2008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5457765,
+          8.9805766
+        ]
+      },
+      "id": "node/7380197300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7821696985",
+        "name": "Green Haven",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7114197,
+          8.7831158
+        ]
+      },
+      "id": "node/7821696985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7996345985",
+        "addr:place": "Talo-ao",
+        "name": "Del Nit'z Farm",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4223108,
+          8.9580386
+        ]
+      },
+      "id": "node/7996345985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8499536417",
+        "addr:postcode": "8600",
+        "addr:street": "Jose Rosales Avenue",
+        "name": "Pavilion",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5286782,
+          8.9507617
+        ]
+      },
+      "id": "node/8499536417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8630318922",
+        "email": "blackbug27@gmail.com",
+        "name": "Dahican Bagnet Fishing",
+        "opening_hours": "24/7",
+        "phone": "09389192726",
+        "tourism": "attraction",
+        "website": "http://blackbug27@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5318271,
+          9.0593155
+        ]
+      },
+      "id": "node/8630318922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9801078722",
+        "name": "USS Narwhal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33742,
+          8.9742919
+        ]
+      },
+      "id": "node/9801078722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9803084818",
+        "name": "Tonybee Nature Park",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4358818,
+          8.8643666
+        ]
+      },
+      "id": "node/9803084818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9803087518",
+        "name": "Taprique View Park",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.447735,
+          8.860487
+        ]
+      },
+      "id": "node/9803087518"
     }
   ]
 }
