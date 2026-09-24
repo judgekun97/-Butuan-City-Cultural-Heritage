@@ -1,4 +1,25 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-24T05:24:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1392288967",
+        "historic": "memorial",
+        "name": "PSHS-CRC Balangay Boat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5942646,
+          8.9695995
+        ]
+      },
+      "id": "way/1392288967"
+    }
+  ]
 }
